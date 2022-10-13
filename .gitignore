@@ -4,4 +4,4 @@ release
 .idea
 *.key
 *.ini
-go.sum
+ethereumpow-adapter
